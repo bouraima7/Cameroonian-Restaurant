@@ -1,0 +1,17 @@
+Main Page
+	- Home (Overview, Location)
+	- Menu (Appetizers, Main Course, Desserts, Drinks)
+	- About Us (Details about the restaurant and Owner)
+	- Contact Us (email, phone,)
+6 pages overall
+CSS to customize all of them (6 total)
+JavaScript to animate all of them(6 total)
+Congruency through entire website
+
+Stack Menu for Navigation
+a
+
+
+add to cart capability? NO
+Responsive
+Interactive

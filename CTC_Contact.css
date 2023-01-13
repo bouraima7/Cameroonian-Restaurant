@@ -1,0 +1,106 @@
+body {
+	background-color: green;
+	font-family : Verdana;
+	
+
+}
+
+h1{
+	background-color: green;
+	font-size: 48px;
+	font-family: Lucida Handwriting;
+	text-align: center;
+	box-shadow:
+    		0 0 60px 30px green ,  
+    		0 0 100px 60px red, 
+    		0 0 140px 90px yellow ; 
+}
+
+h1:hover {
+	background-color:#fdff00;
+	
+}
+
+h2 {
+	text-align:center;
+	font-size: 32px;
+	
+}
+
+h2:hover {
+	background-color:#fdff00;
+}
+
+h3 {
+	text-align: center;
+	font-size: 24px;
+}
+
+h3:hover {
+	background-color:#fdff00;
+}
+
+p {
+	background-color: #fdff00;
+	font-size:18px;
+	font-family: Verdana;
+	text-align: center;
+}
+
+p:hover {
+	background-color: green;
+	font-size: 20px;
+}
+
+form {
+	text-align: center;
+}
+
+table {
+	text-align: center;
+	margin-left:auto; 
+      margin-right:auto;
+}
+
+
+img {
+	border: 4px solid #ddd;
+	border-radius: 9px;
+	padding : 5px;
+	width : 150px;
+	height: 150px;
+}
+
+img:hover{
+	border: 6px dashed #ddd;
+	border-radius: 12px;
+	padding : 2px;
+	width : 250px;
+	height: 250px;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: center;
+  display : inline-block;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
